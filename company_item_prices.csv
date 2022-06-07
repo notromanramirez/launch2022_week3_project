@@ -1,0 +1,832 @@
+,Company,Item,Size,Price
+0,chick-fil-a,Chick-fil-A Chicken Sandwich,,3.05
+1,chick-fil-a,Chick-fil-A Chicken Sandwich - Combo,,5.95
+2,chick-fil-a,Chick-fil-A Chicken Deluxe Sandwich,,3.65
+3,chick-fil-a,Chick-fil-A Chicken Deluxe Sandwich - Combo,,6.55
+4,chick-fil-a,Spicy Chicken Sandwich,,3.29
+5,chick-fil-a,Spicy Chicken Sandwich - Combo,,6.19
+6,chick-fil-a,Spicy Chicken Deluxe Sandwich,,3.89
+7,chick-fil-a,Spicy Chicken Deluxe Sandwich - Combo,,6.79
+8,chick-fil-a,Chick-fil-A Nuggets,8 Pc.,3.05
+9,chick-fil-a,Chick-fil-A Nuggets,12 Pc.,4.45
+10,chick-fil-a,Chick-fil-A Nuggets - Combo,8 Pc.,5.95
+11,chick-fil-a,Chick-fil-A Nuggets - Combo,12 Pc.,8.59
+12,chick-fil-a,Chick-fil-A Nuggets (Grilled),8 Pc.,3.85
+13,chick-fil-a,Chick-fil-A Nuggets (Grilled),12 Pc.,5.75
+14,chick-fil-a,Chick-fil-A Nuggets (Grilled) - Combo,8 Pc.,6.75
+15,chick-fil-a,Chick-fil-A Nuggets (Grilled) - Combo,12 Pc.,8.59
+16,chick-fil-a,Chick-n-Strips,3 Pc.,3.35
+17,chick-fil-a,Chick-n-Strips,4 Pc.,4.39
+18,chick-fil-a,Chick-n-Strips - Combo,3 Pc.,6.25
+19,chick-fil-a,Chick-n-Strips - Combo,4 Pc.,7.25
+20,chick-fil-a,Grilled Chicken Sandwich,,4.39
+21,chick-fil-a,Grilled Chicken Sandwich - Combo,,7.19
+22,chick-fil-a,Grilled Chicken Club Sandwich,,5.59
+23,chick-fil-a,Grilled Chicken Club Sandwich - Combo,,8.39
+24,chick-fil-a,Chicken Salad Sandwich,,3.99
+25,chick-fil-a,Chicken Salad Sandwich - Combo,,6.79
+26,chick-fil-a,Grilled Chicken Cool Wrap,,5.19
+27,chick-fil-a,Grilled Chicken Cool Wrap - Combo,,8.15
+28,chick-fil-a,Soup & Salad (Large Chicken Soup and Side Salad),,8.35
+29,chick-fil-a,Chilled Grilled Chicken Sub Sandwich (Limited Time),,4.79
+30,chick-fil-a,Substitute Medium Premium Side,,1.00
+31,chick-fil-a,Upsize Fries & Drink,,0.46
+32,chick-fil-a,Waffle Potato Fries,Small,1.55
+33,chick-fil-a,Waffle Potato Fries,Medium,1.65
+34,chick-fil-a,Waffle Potato Fries,Large,1.85
+35,chick-fil-a,Baked Potato with Butter,,1.65
+36,chick-fil-a,Yogurt Parfait ,,2.45
+37,chick-fil-a,Fruit Cup,Small,2.05
+38,chick-fil-a,Fruit Cup,Medium,2.75
+39,chick-fil-a,Fruit Cup,Large,4.25
+40,chick-fil-a,Side Salad,,2.89
+41,chick-fil-a,Chicken Soup,Medium,2.65
+42,chick-fil-a,Chicken Soup,Large,4.35
+43,chick-fil-a,Chicken Tortilla Soup (Limited Time),Medium,3.75
+44,chick-fil-a,Chicken Tortilla Soup (Limited Time),Large,6.05
+45,chick-fil-a,Superfood Salad (Limited Time),Medium,2.89
+46,chick-fil-a,Superfood Salad (Limited Time),Large,3.89
+47,chick-fil-a,Chicken Salad Cup,Medium,3.19
+48,chick-fil-a,Chicken Salad Cup,Large,5.15
+49,chick-fil-a,Loaded Baked Potato (Limited Time),,2.65
+50,chick-fil-a,Nuggets,4 Pc.,3.35
+51,chick-fil-a,Nuggets,6 Pc.,4.05
+52,chick-fil-a,Grilled Nuggets,4 Pc.,3.75
+53,chick-fil-a,Grilled Nuggets,6 Pc.,4.65
+54,chick-fil-a,Chick-n-Strips,1 Pc.,3.05
+55,chick-fil-a,Chick-n-Strips,2 Pc.,4.09
+56,chick-fil-a,Asian Salad,,7.19
+57,chick-fil-a,Cobb Salad,,7.19
+58,chick-fil-a,Grilled Market Salad,,7.19
+59,chick-fil-a,"Hand-Spun Milkshakes (Cookies & Cream, Chocolate, Strawberry, or Vanilla)",Small,2.75
+60,chick-fil-a,"Hand-Spun Milkshakes (Cookies & Cream, Chocolate, Strawberry, or Vanilla)",Large,3.15
+61,chick-fil-a,Frosted Lemonade (Limited Time),,2.75
+62,chick-fil-a,Icedream Cone,Small,1.25
+63,chick-fil-a,Icedream Cone,Large,1.65
+64,chick-fil-a,Icedream Cup,Small,1.59
+65,chick-fil-a,Icedream Cup,Large,1.85
+66,chick-fil-a,Icedream Topping,,0.25
+67,chick-fil-a,Chocolate Chunk Cookie,1 Pc.,1.19
+68,chick-fil-a,Chocolate Chunk Cookie,6 Pc.,6.65
+69,chick-fil-a,Chick-fil-A Chicken Biscuit,,2.19
+70,chick-fil-a,Chick-fil-A Chicken Biscuit - Combo,,4.49
+71,chick-fil-a,Chick-n-Minis,3 Pc.,2.29
+72,chick-fil-a,Chick-n-Minis,4 Pc.,2.99
+73,chick-fil-a,Chick-n-Minis - Combo,3 Pc.,4.65
+74,chick-fil-a,Chick-n-Minis - Combo,4 Pc.,5.29
+75,chick-fil-a,Buttered Biscuit,,0.89
+76,chick-fil-a,"Bacon, Egg & Cheese Biscuit",,2.59
+77,chick-fil-a,"Bacon, Egg & Cheese Biscuit - Combo",,4.95
+78,chick-fil-a,Spicy Chicken Biscuit,,2.35
+79,chick-fil-a,Spicy Chicken Biscuit - Combo,,4.65
+80,chick-fil-a,Breakfast Burrito (Chicken or Sausage),,2.55
+81,chick-fil-a,Breakfast Burrito (Chicken or Sausage) - Combo,,4.85
+82,chick-fil-a,"Sausage, Egg & Cheese Biscuit",,2.59
+83,chick-fil-a,"Sausage, Egg & Cheese Biscuit - Combo",,4.95
+84,chick-fil-a,"Chicken, Egg & Cheese Bagel",,3.39
+85,chick-fil-a,"Chicken, Egg & Cheese Bagel - Combo",,5.65
+86,chick-fil-a,Oatmeal,,2.69
+87,chick-fil-a,Oatmeal & Fruit - Combo,,6.69
+88,chick-fil-a,Fruit Cup,Small,2.05
+89,chick-fil-a,Fruit Cup,Medium,2.75
+90,chick-fil-a,Fruit Cup,Large,4.25
+91,chick-fil-a,Plain Bagel,,1.29
+92,chick-fil-a,Bagel with Cream Cheese,,1.79
+93,chick-fil-a,Hash Browns,,0.99
+94,chick-fil-a,Yogurt Parfait,,2.45
+95,chick-fil-a,Cinnamon Cluster,,1.95
+96,chick-fil-a,Fresh-Squeezed Lemonade (Regular or Diet),Small,1.55
+97,chick-fil-a,Fresh-Squeezed Lemonade (Regular or Diet),Medium,1.79
+98,chick-fil-a,Fresh-Squeezed Lemonade (Regular or Diet),Large,2.09
+99,chick-fil-a,Iced Tea (Sweet or Unsweetened),Small,1.35
+100,chick-fil-a,Iced Tea (Sweet or Unsweetened),Medium,1.59
+101,chick-fil-a,Iced Tea (Sweet or Unsweetened),Large,1.85
+102,chick-fil-a,Soft Drinks,Small,1.35
+103,chick-fil-a,Soft Drinks,Medium,1.59
+104,chick-fil-a,Soft Drinks,Large,1.85
+105,chick-fil-a,Dasani Water,Bottle,1.59
+106,chick-fil-a,Simply Orange Juice,Bottle,2.15
+107,chick-fil-a,Apple Juice,,1.09
+108,chick-fil-a,Freshly-Brewed Tea,1 Gallon,4.50
+109,chick-fil-a,Fresh-Squeezed Lemonade,1 Gallon,9.50
+110,chick-fil-a,Iced Coffee (Original or Vanilla),Medium,2.35
+111,chick-fil-a,Iced Coffee (Original or Vanilla),Large,2.65
+112,chick-fil-a,Coffee,Small,1.65
+113,chick-fil-a,Coffee,Medium,1.95
+114,chick-fil-a,Coffee,Large,2.15
+115,chick-fil-a,Coffee,To-Go Box,12.75
+116,subway,Ultimate Steak,Footlong,11.49
+117,subway,Ultimate Steak,Six Inch,7.29
+118,subway, Meatball Marinara,Footlong,7.29
+119,subway, Meatball Marinara,Six Inch,4.99
+120,subway,Spicy Italian,Six Inch,5.99
+121,subway,Black Forest Ham,Footlong,6.49
+122,subway,Black Forest Ham,Six Inch,4.99
+123,subway,Chicken Caesar Melt,Footlong,7.79
+124,subway,Cold Cut Combo,Footlong,4.99
+125,subway,Cold Cut Combo,Six Inch,3.99
+126,subway,Meatball Marinara,Footlong,5.29
+127,subway,Meatball Marinara,Six Inch,3.99
+128,subway,Pizza Sub Melt,Footlong,7.49
+129,subway,Pizza Sub Melt,Six Inch,4.99
+130,subway,Roast Beef,Footlong,9.49
+131,subway,Roast Beef,Six Inch,6.29
+132,subway,Rotisserie-Style Chicken,Footlong,8.49
+133,subway,Rotisserie-Style Chicken,Six Inch,5.29
+134,subway,Rotisserie-Style Chicken & Bacon Melt,Footlong,9.49
+135,subway,Rotisserie-Style Chicken & Bacon Melt,Six Inch,6.29
+136,subway,Spicy Italian,Footlong,6.49
+137,subway,Spicy Italian,Six Inch,4.99
+138,subway,Steak & Cheese,Footlong,9.49
+139,subway,Steak & Cheese,Six Inch,6.29
+140,subway,Subway Club,Footlong,9.49
+141,subway,Subway Club,Six Inch,6.29
+142,subway,Subway Melt,Footlong,9.49
+143,subway,Subway Melt,Six Inch,6.29
+144,subway,Sweet Onion Chicken Teriyaki,Footlong,8.49
+145,subway,Sweet Onion Chicken Teriyaki,Six Inch,5.29
+146,subway,Tuna,Footlong,8.49
+147,subway,Tuna,Six Inch,5.29
+148,subway,Turkey & Bacon Guacamole,Footlong,11.49
+149,subway,Turkey Breast,Footlong,8.49
+150,subway,Turkey Breast,Six Inch,5.29
+151,subway,Veggie Delite,Footlong,4.99
+152,subway,Veggie Delite,Six Inch,3.49
+153,subway,Black Forest Ham Signature Wrap,,6.99
+154,subway,Cold Cut Combo Signature Wrap,,6.99
+155,subway,Meatball Marinara Signature Wrap,,6.99
+156,subway,Roast Beef Signature Wrap,,6.99
+157,subway,Rotisserie-Style Chicken Signature Wrap,,6.99
+158,subway,Savory Rotisserie-Style Chicken Caesar Signature Wrap,,6.99
+159,subway,Spicy Italian Signature Wrap,,6.99
+160,subway,Steak & Cheese Signature Wrap,,7.49
+161,subway,Subway Club Signature Wrap,,6.99
+162,subway,Subway Melt Signature Wrap,,6.99
+163,subway,Sweet Onion Chicken Teriyaki Signature Wrap,,6.99
+164,subway,Tuna Signature Wrap,,6.99
+165,subway,Turkey Breast & Black Forest Ham Signature Wrap,,6.99
+166,subway,Turkey Italiano Melt Signature Wrap,,6.99
+167,subway,"Turkey, Bacon & Guacamole Signature Wrap",,7.29
+168,subway,Veggie Delite Signature Wrap,,5.99
+169,subway,"Bacon, Egg & Cheese Signature Wrap",,6.99
+170,subway,"Black Forest Ham, Egg & Cheese Signature Wrap",,6.99
+171,subway,Egg & Cheese Signature Wrap,,6.99
+172,subway,"Steak, Egg & Cheese Signature Wrap",,6.99
+173,subway,"Bacon, Egg & Cheese",Footlong,6.49
+174,subway,"Bacon, Egg & Cheese",Six Inch,4.29
+175,subway,"Black Forest Ham, Egg & Cheese",Footlong,6.49
+176,subway,"Black Forest Ham, Egg & Cheese",Six Inch,4.29
+177,subway,Egg & Cheese,Footlong,4.99
+178,subway,Egg & Cheese,Six Inch,3.99
+179,subway,"Steak, Egg & Cheese",Footlong,6.48
+180,subway,"Steak, Egg & Cheese",Six Inch,4.29
+181,subway,Sunrise Subway Melt,Footlong,6.49
+182,subway,Sunrise Subway Melt,Six Inch,4.29
+183,subway,Rotisserie-Style Chicken,Footlong,8.49
+184,subway,Rotisserie-Style Chicken,Six Inch,5.29
+185,subway,Black Forest Ham,Footlong,6.49
+186,subway,Black Forest Ham,Six Inch,4.99
+187,subway,Roast Beef,Footlong,9.49
+188,subway,Roast Beef,Six Inch,6.29
+189,subway,Subway Club,Footlong,9.49
+190,subway,Subway Club,Six Inch,6.29
+191,subway,Sweet Onion Chicken Teriyaki,Footlong,8.49
+192,subway,Sweet Onion Chicken Teriyaki,Six Inch,5.29
+193,subway,Turkey Breast,Footlong,8.49
+194,subway,Turkey Breast,Six Inch,5.29
+195,subway,Veggie Delite,Footlong,4.99
+196,subway,Veggie Delite,Six Inch,3.49
+197,subway,Black Forest Ham,,4.99
+198,subway,Roast Beef,,4.99
+199,subway,Turkey Breast,,4.99
+200,subway,Veggie Delite,,4.99
+201,subway,Chicken Caesar,,6.49
+202,subway,Pizza Sub,,7.48
+203,subway,Rotisserie-Style Chicken,,7.78
+204,subway,Rotisserie-Style Chicken & Bacon,,8.78
+205,subway,Turkey & Bacon Guacamole,,9.28
+206,subway,Black Forest Ham,,7.78
+207,subway,Chicken & Bacon Ranch,,8.78
+208,subway,Cold Cut Combo,,6.48
+209,subway,Meatball Marinara,,6.48
+210,subway,Roast Beef,,8.78
+211,subway,Spicy Italian,,7.78
+212,subway,Subway Club,,8.78
+213,subway,Subway Melt,,8.78
+214,subway,Sweet Onion Chicken Teriyaki,,7.78
+215,subway,Tuna,,7.78
+216,subway,Turkey Breast,,7.78
+217,subway,Veggie Delite,,5.98
+218,subway,Ham and Jack,,1.89
+219,subway,Italian Spice,,1.89
+220,subway,Little Cheesesteak,,2.39
+221,subway,Little Turkey,,2.19
+222,subway,Apple Sauce,,1.49
+223,subway,Chips,,1.49
+224,subway,Chocolate Chip Cookie,,0.59
+225,subway,Oatmeal Raisin Cookie,,0.59
+226,subway,Double Chocolate Cookie,,0.59
+227,subway,White Chip Macadamia Nut Cookie,,0.59
+228,subway,Dark Chocolate Cherry Cookie,,0.59
+229,subway,Coffee,,1.29
+230,subway,Fountain Drinks,20 oz,1.89
+231,subway,Fountain Drinks,30 oz,1.99
+232,subway,Fountain Drinks,40 oz,2.19
+233,subway,Dasani Water,,2.19
+234,subway,X2 All Natural Energy Raspberry,,2.49
+235,subway,Gatorade Lemon Lime,,2.19
+236,subway,Honest Kids,,1.19
+237,subway,Gatorade Fruit Punch,,2.19
+238,subway,X2 All Natural Energy Strawberry Kiwi,,2.49
+239,subway,X2 All Natural Energy Fruit Punch,,2.49
+240,subway,Cool Blue,,2.19
+241,subway,Bottled Beverage,,2.19
+242,subway,Juices,,1.99
+243,subway,Cheese Flatizza,,3.50
+244,subway,Pepperoni Flatizza,,3.50
+245,subway,Spicy Italian Flatizza,,3.50
+246,subway,Veggie Flatizza,,3.50
+247,arbys,Classic Roast Beef,,3.29
+248,arbys,Classic Roast Beef - Meal,,5.69
+249,arbys,Mid Roast Beef,,4.29
+250,arbys,Mid Roast Beef - Meal,,6.69
+251,arbys,Max Roast Beef,,5.29
+252,arbys,Max Roast Beef - Meal,,7.69
+253,arbys,Classic Beef &#8216;n Cheddar,,3.99
+254,arbys,Classic Beef &#8216;n Cheddar - Meal,,6.39
+255,arbys,Mid Beef &#8216;n Cheddar,,4.99
+256,arbys,Mid Beef &#8216;n Cheddar - Meal,,7.39
+257,arbys,French Dip & Swiss,,4.49
+258,arbys,French Dip & Swiss - Meal,,6.79
+259,arbys,Smokehouse Brisket,,5.59
+260,arbys,Smokehouse Brisket - Meal,,7.69
+261,arbys,Corned Beef Reuben,,4.99
+262,arbys,Corned Beef Reuben - Meal,,7.49
+263,arbys,Angus Three Cheese & Bacon,,5.59
+264,arbys,Angus Three Cheese & Bacon - Meal,,7.69
+265,arbys,Angus Philly,,5.59
+266,arbys,Angus Philly - Meal,,7.69
+267,arbys,Roast Turkey Ranch & Bacon Sandwich,,5.29
+268,arbys,Roast Turkey Ranch & Bacon Sandwich - Meal,,7.59
+269,arbys,Roast Turkey Ranch & Bacon Wrap,,5.29
+270,arbys,Roast Turkey Ranch & Bacon Wrap - Meal,,7.59
+271,arbys,Roast Turkey & Swiss Sandwich,,4.99
+272,arbys,Roast Turkey & Swiss Sandwich - Meal,,7.49
+273,arbys,Roast Turkey & Swiss Wrap,,4.99
+274,arbys,Roast Turkey & Swiss Wrap - Meal,,7.49
+275,arbys,Grand Turkey Club,,4.49
+276,arbys,Grand Turkey Club - Meal,,6.79
+277,arbys,Crispy Chicken,,3.99
+278,arbys,Crispy Chicken - Meal,,6.49
+279,arbys,Chicken Bacon & Swiss,,4.59
+280,arbys,Chicken Bacon & Swiss - Meal,,6.99
+281,arbys,Chicken Cordon Bleu,,4.59
+282,arbys,Chicken Cordon Bleu - Meal,,6.99
+283,arbys,Prime-Cut Chicken Tenders,3 Pc.,3.69
+284,arbys,Prime-Cut Chicken Tenders,5 Pc.,5.19
+285,arbys,Prime-Cut Chicken Tenders - Meal,3 Pc.,6.19
+286,arbys,Prime-Cut Chicken Tenders - Meal,5 Pc.,7.69
+287,arbys,Crispy Fish Flatbread (Limited Time),,2.99
+288,arbys,Crispy Fish Flatbread - Meal (Limited Time),,4.99
+289,arbys,Crispy Fish Sandwich (Limited Time),,2.99
+290,arbys,Crispy Fish Sandwich - Meal (Limited Time),,4.99
+291,arbys,King&#8217;s Hawaiian Fish Deluxe (Limited Time),,3.99
+292,arbys,King&#8217;s Hawaiian Fish Deluxe - Meal (Limited Time),,5.99
+293,arbys,Steak Fajita Flatbread (Limited Time),,4.99
+294,arbys,Steak Fajita Flatbread - Meal (Limited Time),,6.99
+295,arbys,Fiery Steak Fajita Flatbread (Limited Time),,4.99
+296,arbys,Fiery Steak Fajita Flatbread - Meal (Limited Time),,6.99
+297,arbys,Make It Medium Meal,,0.59
+298,arbys,Make It Large Meal,,0.99
+299,arbys,Ham Melt,,1.59
+300,arbys,French Fries (Curly or Waffle),Snack,1.19
+301,arbys,Drink,Kids,1.09
+302,arbys,Chicken Slider,,1.49
+303,arbys,Corned Beef Slider,,1.49
+304,arbys,Ham Slider,,1.49
+305,arbys,Roast Beef Slider,,1.49
+306,arbys,Any Slider,,1.00
+307,arbys,"Fries, Shake or Drink",Small,1.00
+308,arbys,Roast Beef &#8216;n Cheese Slider,,3.99
+309,arbys,Ham &#8216;n Cheese Slider,,3.99
+310,arbys,Prime-Cut Chicken Tenders,2 Pc.,3.99
+311,arbys,Farmhouse Salad (Crispy Chicken or Roast Turkey),,4.99
+312,arbys,Side Salad,,1.69
+313,arbys,Waffle Fries,Small,1.69
+314,arbys,Waffle Fries,Medium,1.99
+315,arbys,Waffle Fries,Large,2.19
+316,arbys,Curly Fries,Small,1.69
+317,arbys,Curly Fries,Medium,1.99
+318,arbys,Curly Fries,Large,2.19
+319,arbys,Potato Cakes,2 Pc.,1.69
+320,arbys,Potato Cakes,3 Pc.,1.99
+321,arbys,Potato Cakes,4 Pc.,2.19
+322,arbys,Mozzarella Sticks,4 Pc.,2.99
+323,arbys,Mozzarella Sticks,6 Pc.,4.69
+324,arbys,Steakhouse Onion Rings,,2.29
+325,arbys,Chips,Bag,1.29
+326,arbys,Loaded Curly Fries (Limited Time),,2.99
+327,arbys,"Shake (Chocolate, Jamocha or Vanilla)",Small,1.99
+328,arbys,"Shake (Chocolate, Jamocha or Vanilla)",Medium,2.49
+329,arbys,"Shake (Chocolate, Jamocha or Vanilla)",Large,2.99
+330,arbys,Mint Chocolate Swirl Shake (Limited Time),20 oz.,2.99
+331,arbys,"Turnovers (Apple, Cherry, or Chocolate)",,1.39
+332,arbys,Soft Drink,Small,1.59
+333,arbys,Soft Drink,Medium,1.79
+334,arbys,Soft Drink,Large,1.99
+335,arbys,Bottled Water,,1.49
+336,arbys,Iced Tea,,2.29
+337,dairy-queen,Blizzard Treat,Mini,2.89
+338,dairy-queen,Blizzard Treat,Small,3.69
+339,dairy-queen,Blizzard Treat,Medium,4.09
+340,dairy-queen,Blizzard Treat,Large,4.69
+341,dairy-queen,Blizzard Treat,Cone,3.89
+342,dairy-queen,Add Extra Stuff,,0.69
+343,dairy-queen,Peanut Buster Parfait,,4.39
+344,dairy-queen,Banana Split,,4.39
+345,dairy-queen,Cone,Small,1.99
+346,dairy-queen,Cone,Medium,2.39
+347,dairy-queen,Cone,Large,2.69
+348,dairy-queen,Dipped Cone,Small,2.39
+349,dairy-queen,Dipped Cone,Medium,2.79
+350,dairy-queen,Dipped Cone,Large,3.19
+351,dairy-queen,Waffle Cone (Plain),,3.89
+352,dairy-queen,Waffle Cone (Chocolate Coated),,3.89
+353,dairy-queen,Sundae,Small,2.79
+354,dairy-queen,Sundae,Medium,3.09
+355,dairy-queen,Sundae,Large,3.39
+356,dairy-queen,Fudge Stuffed Cookie,,4.19
+357,dairy-queen,Apple Tart,,4.39
+358,dairy-queen,Triple Chocolate Brownie,,4.39
+359,dairy-queen,Shake,Mini,2.99
+360,dairy-queen,Shake,Small,3.29
+361,dairy-queen,Shake,Medium,3.89
+362,dairy-queen,Shake,Large,4.59
+363,dairy-queen,MooLatte,Small,3.49
+364,dairy-queen,MooLatte,Medium,3.99
+365,dairy-queen,MooLatte,Large,4.59
+366,dairy-queen,Arctic Rush,Small,1.69
+367,dairy-queen,Arctic Rush,Medium,1.99
+368,dairy-queen,Arctic Rush,Large,2.29
+369,dairy-queen,Soft Drink,Small,1.79
+370,dairy-queen,Soft Drink,Medium,1.99
+371,dairy-queen,Soft Drink,Large,2.19
+372,dairy-queen,Premium Fruit Smoothie,Small,2.99
+373,dairy-queen,Premium Fruit Smoothie,Medium,3.49
+374,dairy-queen,Premium Fruit Smoothie,Large,3.99
+375,dairy-queen,Julius Original,Small,3.19
+376,dairy-queen,Julius Original,Medium,3.39
+377,dairy-queen,Julius Original,Large,3.89
+378,dairy-queen,Add a Boost (Protein),,0.99
+379,dairy-queen,Add a Boost (Fresh Banana),,0.99
+380,dairy-queen,Original Cheeseburger,,2.19
+381,dairy-queen,Original Cheeseburger - Combo,,4.39
+382,dairy-queen,Original Double Cheeseburger,,3.19
+383,dairy-queen,Original Double Cheeseburger - Combo,,5.39
+384,dairy-queen,Chili Cheese Dog,,2.49
+385,dairy-queen,Chili Cheese Dog - Combo,,4.69
+386,dairy-queen,Chicken Sandwich (Grilled or Crispy),,3.89
+387,dairy-queen,Chicken Sandwich (Grilled or Crispy) - Combo,,6.19
+388,dairy-queen,Chicken Bacon Ranch,,4.89
+389,dairy-queen,Chicken Bacon Ranch - Combo,,6.99
+390,dairy-queen,Chicken Mozzarella,,4.89
+391,dairy-queen,Chicken Mozzarella - Combo,,6.99
+392,dairy-queen,Turkey BLT,,4.89
+393,dairy-queen,Turkey BLT - Combo,,6.99
+394,dairy-queen,Alaskan Pacific Cod Sandwich (Limited Time),,3.19
+395,dairy-queen,Alaskan Pacific Cod Sandwich - Combo (Limited Time),,5.39
+396,dairy-queen,Buffalo Chicken,,1.89
+397,dairy-queen,Chicken Bacon BBQ,,1.89
+398,dairy-queen,Chicken Quesadilla,,1.89
+399,dairy-queen,Chicken Strip Basket,4 Pc.,5.49
+400,dairy-queen,Chicken Strip Basket with Drink,4 Pc.,6.49
+401,dairy-queen,Chicken Strip Basket,6 Pc.,6.89
+402,dairy-queen,Chicken Strip Basket with Drink,6 Pc.,7.89
+403,dairy-queen,Deluxe Cheeseburger Lunch,,5.00
+404,dairy-queen,Chicken Strip Lunch,3 Pc.,5.00
+405,dairy-queen,Crispy Chicken Wraps Lunch,,5.00
+406,dairy-queen,KC BBQ Bacon Cheeseburger Lunch,,5.00
+407,dairy-queen,Chicken BLT Salad (Crispy or Grilled),,6.19
+408,dairy-queen,Chicken Garden Greens Salad (Crispy or Grilled),,6.19
+409,dairy-queen,Side Salad,,2.19
+410,dairy-queen,Chicken Wrap,,1.89
+411,dairy-queen,Fries,Regular,2.19
+412,dairy-queen,Fries,Large,2.69
+413,dairy-queen,Onion Rings,Regular,2.49
+414,dairy-queen,Onion Rings,Large,2.69
+415,dairy-queen,Breaded Mushrooms,,2.49
+416,dairy-queen,Cheese Curds,Regular,3.29
+417,dairy-queen,Cheese Curds,Large,5.99
+418,dairy-queen,"Pick Your Meal, Side, Drink & Treat",,4.29
+419,burger-king,Whopper,,4.19
+420,burger-king,Whopper - Meal,,6.49
+421,burger-king,Double Whopper,,5.29
+422,burger-king,Double Whopper - Meal,,7.59
+423,burger-king,Impossible Whopper,,7.29
+424,burger-king,Crispy Chicken Sandwich,,4.99
+425,burger-king,Crispy Chicken Sandwich - Meal,,7.49
+426,burger-king,Spicy Crispy Chicken Sandwich - Meal,,9.19
+427,burger-king,Spicy Crispy Chicken Sandwich,,5.69
+428,burger-king,Big Fish Sandwich,,3.99
+429,burger-king,Big Fish Sandwich - Meal,,6.39
+430,burger-king,Chicken Nuggets - Meal,10 Pc.,5.99
+431,burger-king,Spicy Chicken Nuggets,10 Pc. ,1.69
+432,burger-king,Chicken Fries,9 Pc. ,6.79
+433,burger-king,Bacon Cheeseburger,,1.49
+434,burger-king,Bacon Double Cheeseburger,,2.29
+435,burger-king,Bacon Cheeseburger Deluxe,,1.69
+436,burger-king,Double Cheeseburger,,1.69
+437,burger-king,French Fries,Value,1.39
+438,burger-king,Onion Rings,Value,1.39
+439,burger-king,Fountain Drink,16 oz.,1.29
+440,burger-king,Icee,12 oz.,1.19
+441,burger-king,Hamburger,,1.00
+442,burger-king,Cheeseburger,,1.00
+443,burger-king,Rodeo Crispy Chicken,,1.00
+444,burger-king,Rodeo Burger,,1.00
+445,burger-king,Chicken Nuggets,4 Pc.,1.19
+446,burger-king,Cookies,2 Pc.,1.00
+447,burger-king,Soft Serve (Cup or Cone),,1.00
+448,burger-king,Apple Pie,,1.49
+449,burger-king,Hershey&#8217;s Sundae Pie,,1.69
+450,burger-king,Jalepeno Chedddar Bites,8 Pc. ,2.29
+451,burger-king,Jalepeno Cheddar Bites,4 Pc. ,1.09
+452,burger-king,Onion Rings,Small,1.79
+453,burger-king,Onion Rings,Medium,2.19
+454,burger-king,Onion Rings,Large,2.39
+455,burger-king,French Fries,Small,1.79
+456,burger-king,French Fries,Medium,2.19
+457,burger-king,French Fries,Large,2.39
+458,burger-king,Crispy Chicken Garden Salad,,7.09
+459,burger-king,Crispy Chicken Club Salad,,7.09
+460,burger-king,Garden Grilled Chicken Salad,,5.59
+461,burger-king,Side Salad (Garden),,1.99
+462,burger-king,MorningStar Veggie Burger,,3.29
+463,burger-king,MorningStar Veggie Burger - Meal,,5.49
+464,burger-king,Sundae (Caramel or Chocolate Fudge),,1.59
+465,burger-king,Soft Serve (Cone or Cup),,1.00
+466,burger-king,Cinnamon Roll ,1 Pc.,1.59
+467,burger-king,Cinnamon Rolls,2 Pc.,2.89
+468,burger-king,French Toast Sticks,3 Pc.,1.00
+469,burger-king,French Toast Sticks,5 Pc.,1.99
+470,burger-king,"Hand-Spun Shakes (Vanilla, Strawberry, or Chocolate)",Small,2.49
+471,burger-king,"Hand-Spun Shakes (Vanilla, Strawberry, or Chocolate)",Medium,3.09
+472,burger-king,"Hand-Spun Shakes (Vanilla, Strawberry, or Chocolate)",Large,3.59
+473,burger-king,Smooth Roast Coffee,Small,1.00
+474,burger-king,Smooth Roast Coffee,Medium,1.59
+475,burger-king,Smooth Roast Coffee,Large,1.79
+476,burger-king,Smooth Roast Iced Coffee (Plain or Vanilla),Small,1.89
+477,burger-king,Smooth Roast Iced Coffee (Plain or Vanilla),Medium,2.39
+478,burger-king,Smooth Roast Iced Coffee (Plain or Vanilla),Large,2.89
+479,burger-king,Iced Tea (Sweet or Unsweetened),Small,1.79
+480,burger-king,Iced Tea (Sweet or Unsweetened),Medium,2.09
+481,burger-king,Iced Tea (Sweet or Unsweetened),Large,2.39
+482,burger-king,Fountain Drink,Small,1.79
+483,burger-king,Fountain Drink,Medium,2.09
+484,burger-king,Fountain Drink,Large,2.39
+485,burger-king,Orange Juice,,1.69
+486,burger-king,Apple Juice,,1.29
+487,burger-king,Bottled Water,,1.09
+488,burger-king,Icee,Small,1.19
+489,burger-king,Icee,Medium,1.59
+490,burger-king,Icee,Large,2.09
+491,burger-king,Frappes (Mocha or Caramel),Small,2.59
+492,burger-king,Frappes (Mocha or Caramel),Medium,3.09
+493,burger-king,Frappes (Mocha or Caramel),Large,3.59
+494,burger-king,Smoothies (Strawberry Banana or Tropical Mango),Small,2.49
+495,burger-king,Smoothies (Strawberry Banana or Tropical Mango),Medium,2.99
+496,burger-king,Smoothies (Strawberry Banana or Tropical Mango),Large,3.49
+497,burger-king,Hamburger - Meal,,3.99
+498,burger-king,Cheeseburger - Meal,,3.99
+499,burger-king,Double Cheeseburger - Meal,,4.99
+500,burger-king,Chicken Nuggets - Meal,4 Pc.,3.99
+501,burger-king,Chicken Nuggets - Meal,6 Pc.,4.99
+502,sonic,SONIC Cheeseburger,,3.89
+503,sonic,SONIC Cheeseburger - Combo,,5.99
+504,sonic,SuperSONIC Double Cheeseburger,,4.99
+505,sonic,SuperSONIC Double Cheeseburger - Combo,,6.99
+506,sonic,SuperSONIC Bacon Double Cheeseburger,,5.49
+507,sonic,SuperSONIC Bacon Double Cheeseburger - Combo,,7.89
+508,sonic,Bacon Cheeseburger TOASTER,,4.99
+509,sonic,Bacon Cheeseburger TOASTER - Combo,,6.99
+510,sonic,Chicken Club TOASTER,,5.09
+511,sonic,Chicken Club TOASTER - Combo,,7.29
+512,sonic,Chicago Dog,,2.39
+513,sonic,Chicago Dog - Combo,,5.19
+514,sonic,New York Dog,,1.99
+515,sonic,New York Dog - Combo,,4.99
+516,sonic,Chili Cheese Coney,,1.99
+517,sonic,Chili Cheese Coney - Combo,,4.99
+518,sonic,All-American Dog,,1.99
+519,sonic,All-American Dog - Combo,,4.99
+520,sonic,Footlong Quarter Pound Coney,,3.69
+521,sonic,Footlong Quarter Pound Coney - Combo,,5.99
+522,sonic,Jumbo Popcorn Chicken,Medium,3.99
+523,sonic,Jumbo Popcorn Chicken - Combo,Medium,5.89
+524,sonic,Jumbo Popcorn Chicken,Large,4.99
+525,sonic,Jumbo Popcorn Chicken - Combo,Large,6.89
+526,sonic,Classic Chicken Sandwich (Grilled or Crispy),,4.49
+527,sonic,Classic Chicken Sandwich (Grilled or Crispy) - Combo,,6.79
+528,sonic,Super Crunch Chicken Strips,3 Pc.,3.49
+529,sonic,Super Crunch Chicken Strips - Combo,3 Pc.,5.79
+530,sonic,Super Crunch Chicken Strips,5 Pc.,4.69
+531,sonic,Super Crunch Chicken Strips - Combo,5 Pc.,6.79
+532,sonic,Super Crunch Chicken Strip Dinner (Medium Combo),4 Pc.,6.79
+533,sonic,Super Crunch Chicken Strip Dinner (Without Drink),4 Pc.,5.69
+534,sonic,Add (Crispy Bacon),,0.60
+535,sonic,The Original Pretzel Dog (Limited Time),,2.09
+536,sonic,Cheesy Bacon Pretzel Dog (Limited Time),,2.99
+537,sonic,Boneless Wings (Limited Time),6 Pc.,4.49
+538,sonic,Boneless Wings (Limited Time),12 Pc.,8.79
+539,sonic,Boneless Wings (Limited Time),24 Pc.,16.99
+540,sonic,Ultimate Chicken Sandwich - Traditional or Classic (Limited Time),,5.99
+541,sonic,Ched &#8216;R&#8217; Bites with Ranch,Mini,1.59
+542,sonic,Ched &#8216;R&#8217; Bites with Ranch,Small,2.99
+543,sonic,Ched &#8216;R&#8217; Bites with Ranch,Medium,4.29
+544,sonic,Ched &#8216;R&#8217; Bites with Ranch,Large,5.29
+545,sonic,Ched &#8216;R&#8217; Bites with Ranch,Family,8.99
+546,sonic,Tots or Fries,Mini,0.79
+547,sonic,Tots or Fries,Small,1.19
+548,sonic,Tots or Fries,Medium,1.99
+549,sonic,Tots or Fries,Large,2.39
+550,sonic,Tots or Fries,Family,3.99
+551,sonic,Handmade Onion Rings,Mini,1.29
+552,sonic,Handmade Onion Rings,Small,2.29
+553,sonic,Handmade Onion Rings,Medium,2.89
+554,sonic,Handmade Onion Rings,Large,3.39
+555,sonic,Handmade Onion Rings,Family,5.39
+556,sonic,Chili Cheese Tots or Fries,Mini,1.29
+557,sonic,Chili Cheese Tots or Fries,Small,2.29
+558,sonic,Chili Cheese Tots or Fries,Medium,3.09
+559,sonic,Chili Cheese Tots or Fries,Large,3.49
+560,sonic,Chili Cheese Tots or Fries,Family,5.99
+561,sonic,Jumbo Popcorn Chicken,Mini,1.49
+562,sonic,Jumbo Popcorn Chicken,Small,2.99
+563,sonic,Jumbo Popcorn Chicken,Medium,3.99
+564,sonic,Jumbo Popcorn Chicken,Large,4.99
+565,sonic,Jumbo Popcorn Chicken,Family,6.99
+566,sonic,Apple Slices,,1.29
+567,sonic,Chicken Strip Sandwich,,1.49
+568,sonic,Grilled Cheese,,1.49
+569,sonic,Corn Dog,,1.29
+570,sonic,Tots or Fries,Small,1.19
+571,sonic,Iced Tea,Small,1.19
+572,sonic,Soft Drink,Small,1.19
+573,sonic,Famous Slush,Small,1.19
+574,sonic,Vanilla Cone,,1.00
+575,sonic,Vanilla Dish,,1.49
+576,sonic,Real Ice Cream Sundae,,1.99
+577,sonic,Breakfast Burrito,,2.59
+578,sonic,Breakfast Burrito - Combo,,4.59
+579,sonic,SuperSONIC Breakfast Burrito,,3.89
+580,sonic,SuperSONIC Breakfast Burrito - Combo,,5.99
+581,sonic,Breakfast TOASTER,,2.89
+582,sonic,Breakfast TOASTER - Combo,,4.89
+583,sonic,French Toast Sticks with Syrup,4 Pc.,2.49
+584,sonic,Cinnasnacks,3 Pc.,2.89
+585,sonic,Cinnasnacks - Combo,3 Pc.,3.89
+586,sonic,Cinnasnacks,5 Pc.,3.99
+587,sonic,Cinnasnacks - Combo,5 Pc.,4.99
+588,sonic,Chicken Strips,2 Pc.,3.59
+589,sonic,Grilled Cheese,,2.99
+590,sonic,Beef Hot Dog,,3.39
+591,sonic,Corn Dog,,3.39
+592,sonic,Signature Limeades,Small,1.69
+593,sonic,Signature Limeades,Medium,1.99
+594,sonic,Signature Limeades,Large,2.29
+595,sonic,Signature Limeades,Route 44,2.59
+596,sonic,Famous Slushes,Small,1.19
+597,sonic,Famous Slushes,Medium,1.99
+598,sonic,Famous Slushes,Large,2.39
+599,sonic,Famous Slushes,Route 44,2.59
+600,sonic,Candy Slushes,Small,1.69
+601,sonic,Candy Slushes,Medium,2.49
+602,sonic,Candy Slushes,Large,2.89
+603,sonic,Candy Slushes,Route 44,3.09
+604,sonic,Real Fruit Slushes,Small,2.19
+605,sonic,Real Fruit Slushes,Medium,2.39
+606,sonic,Real Fruit Slushes,Large,2.79
+607,sonic,Real Fruit Slushes,Route 44,2.99
+608,sonic,Soft Drink,Small,1.19
+609,sonic,Soft Drink,Medium,1.69
+610,sonic,Soft Drink,Large,1.89
+611,sonic,Soft Drink,Route 44,2.19
+612,sonic,Soft Drink (Iced Tea),Gallon,3.99
+613,sonic,SONIC Splash,Small,1.19
+614,sonic,SONIC Splash,Medium,1.69
+615,sonic,SONIC Splash,Large,1.89
+616,sonic,SONIC Splash,Route 44,2.19
+617,sonic,Ocean Water,Small,1.39
+618,sonic,Ocean Water,Medium,1.79
+619,sonic,Ocean Water,Large,1.99
+620,sonic,Ocean Water,Route 44,2.29
+621,sonic,Orange Juice or Cranberry Juice Cocktail,Small,1.99
+622,sonic,Orange Juice or Cranberry Juice Cocktail,Medium,2.49
+623,sonic,SONIC Wave Bottled Water,,1.49
+624,sonic,Premium Roast Coffee,Regular,1.49
+625,sonic,Premium Roast Coffee,Large,1.79
+626,sonic,SONIC Energy Drink,Small,1.99
+627,sonic,SONIC Energy Drink,Medium,2.19
+628,sonic,SONIC Energy Drink,Large,2.29
+629,sonic,SONIC Energy Drink,Route 44,2.49
+630,sonic,Java Chiller Shakes,Small,2.99
+631,sonic,Java Chiller Shakes,Medium,3.39
+632,sonic,Java Chiller Shakes,Large,4.39
+633,sonic,Sonic Blast,Mini,2.89
+634,sonic,Sonic Blast,Small,3.39
+635,sonic,Sonic Blast,Medium,4.09
+636,sonic,Sonic Blast,Large,5.49
+637,sonic,Hand-Mixed Classic Shakes ,Mini,1.99
+638,sonic,Hand-Mixed Classic Shakes ,Small,2.79
+639,sonic,Hand-Mixed Classic Shakes ,Medium,3.59
+640,sonic,Hand-Mixed Classic Shakes ,Large,4.59
+641,sonic,Master Shakes,Mini,2.49
+642,sonic,Master Shakes,Small,3.29
+643,sonic,Master Shakes,Medium,4.09
+644,sonic,Master Shakes,Large,5.09
+645,sonic,CreamSlush Treats,Mini,2.09
+646,sonic,CreamSlush Treats,Small,2.99
+647,sonic,CreamSlush Treats,Medium,3.59
+648,sonic,CreamSlush Treats,Large,4.59
+649,sonic,Old School Floats,Mini,2.09
+650,sonic,Old School Floats,Small,2.49
+651,sonic,Old School Floats,Medium,3.09
+652,sonic,Old School Floats,Large,4.39
+653,sonic,Real Ice Cream Sundae,,1.99
+654,sonic,Molten Cake Sundae,,4.29
+655,sonic,Waffle Cone Sundae,,2.99
+656,sonic,Vanilla Waffle Cone,,1.99
+657,sonic,Master Blast,Mini,3.39
+658,sonic,Master Blast,Small,3.89
+659,sonic,Master Blast,Medium,4.59
+660,sonic,Master Blast,Large,5.99
+661,mcdonalds,Big Mac,,3.99
+662,mcdonalds,Big Mac - Meal,,5.99
+663,mcdonalds,2 Cheeseburgers,,2.00
+664,mcdonalds,2 Cheeseburgers - Meal,,4.89
+665,mcdonalds,Quarter Pounder with Cheese,,3.79
+666,mcdonalds,Quarter Pounder with Cheese - Meal,,5.79
+667,mcdonalds,Double Quarter Pounder with Cheese,,4.79
+668,mcdonalds,Double Quarter Pounder with Cheese - Meal,,6.69
+669,mcdonalds,Bacon Clubhouse Burger,,4.49
+670,mcdonalds,Bacon Clubhouse Burger - Meal,,6.49
+671,mcdonalds,Buttermilk Crispy Chicken,,4.39
+672,mcdonalds,Buttermilk Crispy Chicken - Meal,,6.39
+673,mcdonalds,Artisan Grilled Chicken,,4.39
+674,mcdonalds,Artisan Grilled Chicken - Meal,,6.39
+675,mcdonalds,Premium McWrap Chicken & Bacon (Grilled or Crispy),,4.39
+676,mcdonalds,Premium McWrap Chicken & Ranch (Grilled or Crispy),,4.39
+677,mcdonalds,Premium McWrap Sweet Chili Chicken (Grilled or Crispy),,4.39
+678,mcdonalds,Filet-O-Fish,,3.79
+679,mcdonalds,Filet-O-Fish - Meal,,5.79
+680,mcdonalds,Double Filet-O-Fish,,4.79
+681,mcdonalds,Double Filet-O-Fish - Meal,,6.79
+682,mcdonalds,Premium Chicken Bacon Clubhouse (Grilled or Crispy),,4.49
+683,mcdonalds,Chicken McNuggets (Regular or Spicy),10 Pc.,4.49
+684,mcdonalds,Chicken McNuggets - Meal (Regular or Spicy),10 Pc.,6.49
+685,mcdonalds,Chicken McNuggets (Regular or Spicy),20 Pc.,5.00
+686,mcdonalds,Chicken McNuggets (Regular or Spicy),40 Pc.,8.99
+687,mcdonalds,Southwest Salad,,4.79
+688,mcdonalds,Bacon Ranch Salad,,4.59
+689,mcdonalds,Donut Sticks ,,2.59
+690,mcdonalds,French Fries,Small,1.39
+691,mcdonalds,French Fries,Medium,1.79
+692,mcdonalds,French Fries,Large,1.89
+693,mcdonalds,"Minute Maid Slushie (Blue Rapsberry, Fruit Punch, Pink Lemonade)",,2.00
+694,mcdonalds,Apple Slices,,1.00
+695,mcdonalds,"Shake (Chocolate, Vanilla, or Strawberry)",Small,2.19
+696,mcdonalds,"Shake (Chocolate, Vanilla, or Strawberry)",Medium,2.59
+697,mcdonalds,"Shake (Chocolate, Vanilla, or Strawberry)",Large,2.99
+698,mcdonalds,Sundae (Hot Fudge or Caramel),,1.29
+699,mcdonalds,Cone (Vanilla),,1.00
+700,mcdonalds,McFlurry,Snack,1.79
+701,mcdonalds,McFlurry,Regular,2.39
+702,mcdonalds,Chicken McNuggets,4 Pc.,3.29
+703,mcdonalds,Hamburger,,2.49
+704,mcdonalds,Cheeseburger,,2.79
+705,mcdonalds,Fruit & Maple Oatmeal,,1.99
+706,mcdonalds,Soft Drink,Small,1.00
+707,mcdonalds,McRib,,3.69
+708,mcdonalds,Holiday Pie,,0.89
+709,mcdonalds,Spicy McChicken,,1.00
+710,mcdonalds,Shamrock Shake,Small,2.19
+711,mcdonalds,Shamrock Shake,Medium,2.59
+712,mcdonalds,Shamrock Shake,Large,2.99
+713,mcdonalds,Spicy Chicken McNuggets,10 Pc.,4.35
+714,mcdonalds,Frozen Strawberry Lemonade,Medium,2.59
+715,mcdonalds,Angus Chipotle BBQ Burger,,9.75
+716,mcdonalds,Cherry Berry Chiller,Small,1.69
+717,mcdonalds,Cherry Berry Chiller,Medium,1.99
+718,mcdonalds,Cherry Berry Chiller,Large,2.29
+719,taco-bell,Crunchy Taco,,1.19
+720,taco-bell,Crunchy Taco Supreme,,1.69
+721,taco-bell,Soft Taco,,1.19
+722,taco-bell,Soft Taco Supreme,,1.69
+723,taco-bell,Chicken Soft Taco,,1.79
+724,taco-bell,Grilled Steak Soft Taco,,2.49
+725,taco-bell,Double Decker Taco,,1.89
+726,taco-bell,Double Decker Taco Supreme,,2.29
+727,taco-bell,Doritos Locos Taco (Nacho Cheese),Regular,1.49
+728,taco-bell,Doritos Locos Taco (Nacho Cheese),Supreme,1.89
+729,taco-bell,Doritos Locos Taco (Cool Ranch),Regular,1.49
+730,taco-bell,Doritos Locos Taco (Cool Ranch),Supreme,1.89
+731,taco-bell,Doritos Locos Taco (Fiery),Regular,1.49
+732,taco-bell,Doritos Locos Taco (Fiery),Supreme,1.89
+733,taco-bell,Bean Burrito,,1.29
+734,taco-bell,Beefy 5-Layer Burrito,,1.69
+735,taco-bell,Chicken Burrito,,1.79
+736,taco-bell,Cheese Potato Burrito,,2.39
+737,taco-bell,Combo Burrito,,2.59
+738,taco-bell,Burrito Supreme,,3.19
+739,taco-bell,7-Layer Burrito,,2.49
+740,taco-bell,Black Bean Burrito,,1.79
+741,taco-bell,XXL Grilled Stuft Burrito (Beef),,3.99
+742,taco-bell,XXL Grilled Stuft Burrito (Chicken),,4.99
+743,taco-bell,XXL Grilled Stuft Burrito (Steak),,5.19
+744,taco-bell,Smothered Burrito (Beef),,2.99
+745,taco-bell,Smothered Burrito (Shredded Chicken),,3.99
+746,taco-bell,Smothered Burrito (Steak),,4.19
+747,taco-bell,Chili Cheese Burrito,,1.69
+748,taco-bell,Cheesy Nachos,,1.39
+749,taco-bell,Nacho Supreme,,2.49
+750,taco-bell,Nacho Bellgrande,,3.29
+751,taco-bell,Chalupa Supreme (Beef),,2.49
+752,taco-bell,Chalupa Supreme (Chicken),,3.19
+753,taco-bell,Chalupa Supreme (Steak),,3.39
+754,taco-bell,Mexican Pizza,,3.49
+755,taco-bell,Crunchwrap Supreme,,2.99
+756,taco-bell,Fiesta Taco Salad (Beef),,4.99
+757,taco-bell,Fiesta Taco Salad (Chicken),,5.49
+758,taco-bell,Fiesta Taco Salad (Steak),,5.99
+759,taco-bell,Cheese Quesadilla,,2.49
+760,taco-bell,Quesadilla (Chicken),,3.39
+761,taco-bell,Quesadilla (Steak),,3.59
+762,taco-bell,Cheesy Gordita Crunch,,2.69
+763,taco-bell,Doritos Cheesy Gordita Crunch,,2.99
+764,taco-bell,Gordita Supreme (Beef),,2.49
+765,taco-bell,Gordita Supreme (Chicken),,3.19
+766,taco-bell,Gordita Supreme (Steak),,3.39
+767,taco-bell,Meximelt,,2.19
+768,taco-bell,Double Tostada,,1.59
+769,taco-bell,Quesarito (Beef),,2.59
+770,taco-bell,Quesarito (Chicken),,3.19
+771,taco-bell,Quesarito (Steak),,3.49
+772,taco-bell,Caramel Apple Empanada,,1.00
+773,taco-bell,Cinnabon Delights ,2 Pack,1.00
+774,taco-bell,Cinnabon Delights ,4 Pack,1.69
+775,taco-bell,Cinnabon Delights ,12 Pack,4.49
+776,taco-bell,Cantina Power Bowl (Chicken),,4.99
+777,taco-bell,Cantina Power Bowl (Veggie),,4.99
+778,taco-bell,Cantina Power Bowl (Steak),,5.19
+779,taco-bell,Cantina Power Burrito (Chicken),,3.79
+780,taco-bell,Cantina Power Burrito (Veggie),,3.79
+781,taco-bell,Cantina Power Burrito (Steak),,3.99
+782,taco-bell,Beefy Fritos Burrito,,1.00
+783,taco-bell,Beefy Mini Quesadilla,,1.00
+784,taco-bell,Spicy Potato Soft Taco,,1.00
+785,taco-bell,Spicy Tostada,,1.00
+786,taco-bell,Cheesy Bean & Rice Burrito,,1.00
+787,taco-bell,Cheese Roll-Up,,1.00
+788,taco-bell,Chicken Mini Quesadilla,,1.00
+789,taco-bell,Triple Layer Nachos,,1.00
+790,taco-bell,Shredded Chicken Burrito,,2.79
+791,taco-bell,Double Decker Taco,,2.79
+792,taco-bell,Beef Gordita Supreme,,2.79
+793,taco-bell,Beefy 5-Layer Burrito,,2.79
+794,taco-bell,Soft Drink,16 oz.,1.49
+795,taco-bell,Soft Drink,20 oz.,1.59
+796,taco-bell,Soft Drink,30 oz.,1.89
+797,taco-bell,Soft Drink,40 oz.,1.99
+798,taco-bell,Orange Juice,,1.99
+799,taco-bell,Premium Hot Coffee,,1.49
+800,taco-bell,Premium Iced Coffee,,1.49
+801,taco-bell,Loaded Griller (Potato),,1.49
+802,taco-bell,Loaded Griller (Chipotle Chicken),,1.49
+803,taco-bell,Loaded Griller (Beefy Nacho),,1.49
+804,taco-bell,Boss Nachos (Beef),,4.99
+805,taco-bell,Boss Nachos (Chicken),,5.79
+806,taco-bell,Boss Nachos (Steak),,5.99
+807,taco-bell,Boss Nachos (Beef) with Soda,,5.99
+808,taco-bell,Boss Nachos (Chicken) with Soda,,6.79
+809,taco-bell,Boss Nachos (Steak) with Soda,,6.99
+810,taco-bell,Cheddar Chalupa,,2.99
+811,taco-bell,Nacho Fries,,1.39
+812,taco-bell,Quesalupa,,2.99
+813,taco-bell,Chalupa Cravings,,5.00
+814,taco-bell,Beefy Potato-rito,,1.00
+815,taco-bell,Supreme Taco Party Pack,12 Pc.,15.99
+816,taco-bell,Supreme Variety Pack (6 Supreme Tacos & 6 Doritos Tacos),12 Pc.,17.99
+817,taco-bell,Variety Taco 12 Pack,12 Pc.,13.99
+818,taco-bell,Cinnamon Twists,,1.00
+819,taco-bell,Cheesy Fiesta Potatoes,,1.29
+820,taco-bell,Chips & Cheese,,1.39
+821,taco-bell,Chips & Pico De Gallo,,1.49
+822,taco-bell,Chips & Guacamole,,1.49
+823,taco-bell,Pintos N Cheese,,1.19
+824,taco-bell,Premium Latin Rice,,1.49
+825,taco-bell,Black Beans & Rice,,1.49
+826,taco-bell,Black Beans,,1.49
+827,taco-bell,Doritos Chips,Bag,0.79
+828,taco-bell,Side of Bacon,,0.50
+829,taco-bell,Side of Sausage Patty,,1.20
+830,taco-bell,Side of Egg,,0.30
